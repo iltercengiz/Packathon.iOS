@@ -526,7 +526,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = info.iltercengiz.iOS.Packathon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "dd1af711-4ce2-4aca-a795-b1765f445fab";
+				PROVISIONING_PROFILE = "fc62cdf3-644f-41fc-9f77-211210944ebc";
 			};
 			name = Release;
 		};
